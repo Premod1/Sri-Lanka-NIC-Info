@@ -29,4 +29,4 @@ The **Sri Lanka NIC Info Calculator** is a Chrome extension designed to extract 
 If you want to explore or modify the source code:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/sri-lanka-nic-info-calculator.git
+   git clone https://github.com/Premod1/Sri-Lanka-NIC-Info.git
