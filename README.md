@@ -1,6 +1,6 @@
 # Sri Lanka NIC Info Calculator
 
-![Sri Lanka NIC Info Calculator](assets/image.png)
+![Sri Lanka NIC Info Calculator](assest/image.png)
 
 The **Sri Lanka NIC Info Calculator** is a Chrome extension designed to extract and calculate valuable information from Sri Lankan National Identity Card (NIC) numbers. This simple and user-friendly tool provides details such as age, year of birth, gender, and date of birth.  
 
