@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Sri Lanka NIC Info",
+    "version": "1.0",
+    "description": "Calculate Age, Year of Birth, and Gender from Sri Lankan NIC",
+    "action": {
+      "default_popup": "popup.html",
+        "default_icon": {
+            "16": "assest/2.png",
+            "48": "assest/2.png",
+            "128": "assest/2.png"          
+        }
+    },
+    "permissions": []
+  }
+  

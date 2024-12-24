@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NIC Info</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            /* padding: 10px; */
+            background-color: #f4f4f9;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 300px;
+            margin: 0;
+            width: 400px;
+        }
+        .container {
+            background: #fff;
+            /* padding: 10px; */
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            width: 400px;
+            text-align: center;
+            height: 300px;
+            padding: 5px;
+        }
+        h2 {
+            margin-bottom: 20px;
+            color: #007BFF;
+        }
+        input[type="text"] {
+            width: calc(100% - 22px);
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .result {
+            margin-top: 20px;
+        }
+        .result p {
+            background: #e9ecef;
+            padding: 10px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Sri Lanka NIC Info</h2>
+        <input type="text" id="nicInput" placeholder="Enter NIC Number" />
+        <button id="calculateBtn">Calculate</button>
+        <div class="result">
+            <p id="output"></p>
+        </div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
